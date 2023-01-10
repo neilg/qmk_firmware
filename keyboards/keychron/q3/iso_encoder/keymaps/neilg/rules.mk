@@ -1,3 +1,3 @@
 ENCODER_MAP_ENABLE = yes
-#NKRO_ENABLE = yes
+NKRO_ENABLE = yes
 VIA_ENABLE = yes
